@@ -37,7 +37,7 @@ This project demonstrates the implementation of a **complete inventory managemen
 ---
 
 ## Project Structure
-stock-management-system\
+stock-management-system
 │
 ├── auth/ # Authentication (login, register, OTP)
 ├── config/ # Database configuration
@@ -50,7 +50,6 @@ stock-management-system\
 ├── includes/ # Shared UI components
 ├── assets/ # CSS and JS files
 └── index.php # Entry point
-
 
 ---
 
