@@ -37,6 +37,7 @@ This project demonstrates the implementation of a **complete inventory managemen
 ---
 
 ## Project Structure
+
 stock-management-system
 │
 ├── auth/ # Authentication (login, register, OTP)
