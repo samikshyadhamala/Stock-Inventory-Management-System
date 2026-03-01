@@ -35,6 +35,7 @@ This project demonstrates the implementation of a **complete inventory managemen
 - PHPMailer
 
 ---
+---
 
 ## Project Structure
 
@@ -51,6 +52,7 @@ stock-management-system
 ├── includes/ # Shared UI components
 ├── assets/ # CSS and JS files
 └── index.php # Entry point
+
 
 ---
 
